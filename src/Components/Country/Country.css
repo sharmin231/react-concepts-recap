@@ -3,4 +3,11 @@
     margin:15px;
     border:2px solid tomato;
     border-radius:10px;
+    
+}
+.visited{
+    background-color: aquamarine;
+}
+.non{
+    background-color: blueviolet;
 }
